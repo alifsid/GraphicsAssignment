@@ -1,5 +1,5 @@
 # GraphicsAssignment
-Class assignment on Graphics.
+Class assignment on Graphics written in c++.
 
 
 1. A program to display circles of randomly changing diameters,
